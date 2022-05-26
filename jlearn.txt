@@ -1,20 +1,22 @@
 1. Hoang Son Thuy (hsthuy)
 
-2. Ngo Minh Nhat Duy (nmnduy)
+2. nguyen Trong Tin (nttin)
+3. nguyen trong tin1 (nttin1) 
+
+
+4. Ngo Minh Nhat Duy (nmnduy)
    Ngo Minh Nhat Duy v2.0 (nmnduy)
 
-3. Nguyen Phuoc Nhan (npnhan) update v2
-4. Vo Dac Vuong (vdvuong)
-5. Truong Trieu Thien (ttthien)
-6. Le Nhut Duy (lnduy)
-7. Le Cong Minh (lcminh)
-8. Thai Phuoc Dai (tpdai)
-9. Ho Chi Tam (hctam) exercise 2
-10. Nguyen vinh Khang (nvkhang) update 2
-11. Nguyen Hong Liem (nhLiem)
-12. Nguyen Tuan Anh (ntanh)
-13. Doan Trong Hiep
-14. Nguyen Minh Trung (nmtrung)
-15. Hoang Son Thuy 1 (hsthuy2)
-
-
+5. Nguyen Phuoc Nhan (npnhan) update v2
+6. Vo Dac Vuong (vdvuong)
+7. Truong Trieu Thien (ttthien)
+8. Le Nhut Duy (lnduy)
+9. Le Cong Minh (lcminh)
+10. Thai Phuoc Dai (tpdai)
+11. Ho Chi Tam (hctam) exercise 2
+12. Nguyen vinh Khang (nvkhang) update 2
+13. Nguyen Hong Liem (nhLiem)
+14. Nguyen Tuan Anh (ntanh)
+15. Doan Trong Hiep
+16. Nguyen Minh Trung (nmtrung)
+17. Hoang Son Thuy 1 (hsthuy2)
